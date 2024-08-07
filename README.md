@@ -1,6 +1,6 @@
 # semantic-commit
 
-
+**`<type>(<scope>): <subject`**
 - **`<type>`**: Describes the kind of change you're making. This is mandatory.
 - **`<scope>`**: Describes the part of the codebase the change affects. This is optional.
 - **`<subject>`**: A brief summary of the change in the present tense. This is mandatory.
